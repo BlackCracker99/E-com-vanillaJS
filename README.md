@@ -1,6 +1,6 @@
     vanillaJS Amazona
 
-#1).Create Folder Structure
+#   1).Create Folder Structure
     #    1.create root folder as jsamazona
     #    2.add frontend and backend folder
     #    3.create src folder in frontend
@@ -11,7 +11,7 @@
     #    8.run npm start
     #    9.check result
 
-#2).Design Website
+#   2).Design Website
     #    1.create style.css
     #    2.link style.css to index.html
     #    3.create div.grid-container
