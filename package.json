@@ -1,0 +1,23 @@
+{
+  "name": "amazona-vanillajs",
+  "version": "1.0.0",
+  "description": "vanillaJS Amazona",
+  "main": "index.js",
+  "scripts": {
+    "start":"node backend/server.js" , 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackCracker99/E-com-vanillaJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackCracker99/E-com-vanillaJS/issues"
+  },
+  "homepage": "https://github.com/BlackCracker99/E-com-vanillaJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
